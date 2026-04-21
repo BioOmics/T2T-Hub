@@ -1,0 +1,13 @@
+# Usage: bash 19.protparamAnalysis.sh namaList
+
+namaList=$(realpath $1)
+
+cat ${namaList} | cut -f1 | while read i;do
+
+cut -d " " -f1 genome.re.pep | sed '/^[^>]/ s/\.//g' | sed '/^[^>]/ s/X//g' > ${i}.pep
+python /pathway/script4animal/19.protparamAnalysis.py ${i}.pep ${i}.protparam.txt
+
+rm ${i}.pep
+echo "Protparam Analysis Done"
+
+done
