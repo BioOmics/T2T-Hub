@@ -1,4 +1,4 @@
-# T2T-Hub: A central platform for analyzing plant and animal T2T genomes
+# [T2T-Hub](https://biobigdata.nju.edu.cn/t2thub/): A central platform for analyzing plant and animal T2T genomes
 
 <img width="1837" height="906" alt="image" src="https://github.com/user-attachments/assets/0102a66d-f33a-401a-954a-93aefaf1a7ed" />
 
