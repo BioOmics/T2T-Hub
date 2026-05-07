@@ -1,5 +1,5 @@
-# T2T-Hub
-T2T-Hub: A central platform for analyzing plant and animal T2T genomes
+# T2T-Hub: A central platform for analyzing plant and animal T2T genomes
+
 <img width="1837" height="906" alt="image" src="https://github.com/user-attachments/assets/0102a66d-f33a-401a-954a-93aefaf1a7ed" />
 
 
@@ -19,6 +19,8 @@ Discuss and share the latest research progress on T2T genomes; exchange details 
 
 # Cite us
 Haoyu Chao, Zhonghao Ruan, Zhuojin Li, Xinkai Zhou, Shilong Zhang, Xingxing Shen, Cong Feng, Dijun Chen, Ming Chen, T2T-Hub: a central platform for analyzing plant and animal telomere-to-telomere genomes, Nucleic Acids Research, 2026;, gkag423, https://doi.org/10.1093/nar/gkag423
+        
+        
         
         
         
